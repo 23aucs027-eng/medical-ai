@@ -99,4 +99,3 @@ with tabs[1]:
                 st.caption(f"distance: {a['score']:.3f}")
 
 st.markdown("---")
-st.caption("Model files loaded from `model/`. Embeddings loaded from `embeddings/`.")
